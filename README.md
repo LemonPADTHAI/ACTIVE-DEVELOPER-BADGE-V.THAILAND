@@ -40,7 +40,7 @@
 ## วิธีเชิญบอทเข้า Server ✨
 วิธีเชิญบอท
 
-  1 คลุมของความ
+  1 คลุมข้อความ
    <p align="center">
   <img alt="GiveMeBadge" src="https://cdn.discordapp.com/attachments/1040631490024833028/1051863304966000753/image.png" width="750px">
 </p>
